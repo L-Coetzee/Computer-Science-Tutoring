@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exam Grading system console (Nested If statements)/1.0.0": {
+        "runtime": {
+          "Exam Grading system console (Nested If statements).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exam Grading system console (Nested If statements)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

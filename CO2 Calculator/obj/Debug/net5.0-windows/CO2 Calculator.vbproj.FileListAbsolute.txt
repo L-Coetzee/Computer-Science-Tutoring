@@ -1,0 +1,18 @@
+C:\Users\Gaming\source\repos\CO2 Calculator\bin\Debug\net5.0-windows\CO2 Calculator.exe
+C:\Users\Gaming\source\repos\CO2 Calculator\bin\Debug\net5.0-windows\CO2 Calculator.deps.json
+C:\Users\Gaming\source\repos\CO2 Calculator\bin\Debug\net5.0-windows\CO2 Calculator.runtimeconfig.json
+C:\Users\Gaming\source\repos\CO2 Calculator\bin\Debug\net5.0-windows\CO2 Calculator.runtimeconfig.dev.json
+C:\Users\Gaming\source\repos\CO2 Calculator\bin\Debug\net5.0-windows\CO2 Calculator.dll
+C:\Users\Gaming\source\repos\CO2 Calculator\bin\Debug\net5.0-windows\ref\CO2 Calculator.dll
+C:\Users\Gaming\source\repos\CO2 Calculator\bin\Debug\net5.0-windows\CO2 Calculator.pdb
+C:\Users\Gaming\source\repos\CO2 Calculator\obj\Debug\net5.0-windows\CO2 Calculator.vbprojAssemblyReference.cache
+C:\Users\Gaming\source\repos\CO2 Calculator\obj\Debug\net5.0-windows\CO2_Calculator.Form1.resources
+C:\Users\Gaming\source\repos\CO2 Calculator\obj\Debug\net5.0-windows\CO2 Calculator.vbproj.GenerateResource.cache
+C:\Users\Gaming\source\repos\CO2 Calculator\obj\Debug\net5.0-windows\CO2 Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\source\repos\CO2 Calculator\obj\Debug\net5.0-windows\CO2 Calculator.AssemblyInfoInputs.cache
+C:\Users\Gaming\source\repos\CO2 Calculator\obj\Debug\net5.0-windows\CO2 Calculator.AssemblyInfo.vb
+C:\Users\Gaming\source\repos\CO2 Calculator\obj\Debug\net5.0-windows\CO2 Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Gaming\source\repos\CO2 Calculator\obj\Debug\net5.0-windows\CO2 Calculator.dll
+C:\Users\Gaming\source\repos\CO2 Calculator\obj\Debug\net5.0-windows\ref\CO2 Calculator.dll
+C:\Users\Gaming\source\repos\CO2 Calculator\obj\Debug\net5.0-windows\CO2 Calculator.pdb
+C:\Users\Gaming\source\repos\CO2 Calculator\obj\Debug\net5.0-windows\CO2 Calculator.genruntimeconfig.cache

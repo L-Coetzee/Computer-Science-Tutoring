@@ -1,0 +1,18 @@
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Calculating Volume (Forms)\bin\Debug\net5.0-windows\Calculating Volume (Forms).exe
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Calculating Volume (Forms)\bin\Debug\net5.0-windows\Calculating Volume (Forms).deps.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Calculating Volume (Forms)\bin\Debug\net5.0-windows\Calculating Volume (Forms).runtimeconfig.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Calculating Volume (Forms)\bin\Debug\net5.0-windows\Calculating Volume (Forms).runtimeconfig.dev.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Calculating Volume (Forms)\bin\Debug\net5.0-windows\Calculating Volume (Forms).dll
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Calculating Volume (Forms)\bin\Debug\net5.0-windows\ref\Calculating Volume (Forms).dll
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Calculating Volume (Forms)\bin\Debug\net5.0-windows\Calculating Volume (Forms).pdb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Calculating Volume (Forms)\obj\Debug\net5.0-windows\Calculating_Volume__Forms_.Form1.resources
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Calculating Volume (Forms)\obj\Debug\net5.0-windows\Calculating Volume (Forms).vbproj.GenerateResource.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Calculating Volume (Forms)\obj\Debug\net5.0-windows\Calculating Volume (Forms).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Calculating Volume (Forms)\obj\Debug\net5.0-windows\Calculating Volume (Forms).AssemblyInfoInputs.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Calculating Volume (Forms)\obj\Debug\net5.0-windows\Calculating Volume (Forms).AssemblyInfo.vb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Calculating Volume (Forms)\obj\Debug\net5.0-windows\Calculating Volume (Forms).vbproj.CoreCompileInputs.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Calculating Volume (Forms)\obj\Debug\net5.0-windows\Calculating Volume (Forms).dll
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Calculating Volume (Forms)\obj\Debug\net5.0-windows\ref\Calculating Volume (Forms).dll
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Calculating Volume (Forms)\obj\Debug\net5.0-windows\Calculating Volume (Forms).pdb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Calculating Volume (Forms)\obj\Debug\net5.0-windows\Calculating Volume (Forms).genruntimeconfig.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Calculating Volume (Forms)\obj\Debug\net5.0-windows\Calculating Volume (Forms).vbprojAssemblyReference.cache

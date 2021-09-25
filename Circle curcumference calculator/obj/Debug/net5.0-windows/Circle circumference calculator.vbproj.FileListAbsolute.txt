@@ -1,0 +1,18 @@
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Circle curcumference calculator\bin\Debug\net5.0-windows\Circle circumference calculator.exe
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Circle curcumference calculator\bin\Debug\net5.0-windows\Circle circumference calculator.deps.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Circle curcumference calculator\bin\Debug\net5.0-windows\Circle circumference calculator.runtimeconfig.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Circle curcumference calculator\bin\Debug\net5.0-windows\Circle circumference calculator.runtimeconfig.dev.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Circle curcumference calculator\bin\Debug\net5.0-windows\Circle circumference calculator.dll
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Circle curcumference calculator\bin\Debug\net5.0-windows\ref\Circle circumference calculator.dll
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Circle curcumference calculator\bin\Debug\net5.0-windows\Circle circumference calculator.pdb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Circle curcumference calculator\obj\Debug\net5.0-windows\Circle circumference calculator.vbprojAssemblyReference.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Circle curcumference calculator\obj\Debug\net5.0-windows\Circle_curcumference_calculator.Form1.resources
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Circle curcumference calculator\obj\Debug\net5.0-windows\Circle circumference calculator.vbproj.GenerateResource.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Circle curcumference calculator\obj\Debug\net5.0-windows\Circle circumference calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Circle curcumference calculator\obj\Debug\net5.0-windows\Circle circumference calculator.AssemblyInfoInputs.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Circle curcumference calculator\obj\Debug\net5.0-windows\Circle circumference calculator.AssemblyInfo.vb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Circle curcumference calculator\obj\Debug\net5.0-windows\Circle circumference calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Circle curcumference calculator\obj\Debug\net5.0-windows\Circle circumference calculator.dll
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Circle curcumference calculator\obj\Debug\net5.0-windows\ref\Circle circumference calculator.dll
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Circle curcumference calculator\obj\Debug\net5.0-windows\Circle circumference calculator.pdb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Circle curcumference calculator\obj\Debug\net5.0-windows\Circle circumference calculator.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Exam Grading system console (Nested If statements)", "Exam Grading system console (Nested If statements).vbproj", "{1AC4F386-4E4F-4D29-ADED-473B2AFEEBC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AC4F386-4E4F-4D29-ADED-473B2AFEEBC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC4F386-4E4F-4D29-ADED-473B2AFEEBC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC4F386-4E4F-4D29-ADED-473B2AFEEBC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC4F386-4E4F-4D29-ADED-473B2AFEEBC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67A896CD-3540-4109-A275-BA6177DBFC61}
+	EndGlobalSection
+EndGlobal

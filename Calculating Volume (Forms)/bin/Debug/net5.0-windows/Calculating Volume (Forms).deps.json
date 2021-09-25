@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Calculating Volume (Forms)/1.0.0": {
+        "runtime": {
+          "Calculating Volume (Forms).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculating Volume (Forms)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

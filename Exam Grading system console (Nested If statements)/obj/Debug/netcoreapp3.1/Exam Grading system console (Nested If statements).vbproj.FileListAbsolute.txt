@@ -1,0 +1,13 @@
+C:\Users\Gaming\source\repos\Exam Grading system console (Nested If statements)\bin\Debug\netcoreapp3.1\Exam Grading system console (Nested If statements).exe
+C:\Users\Gaming\source\repos\Exam Grading system console (Nested If statements)\bin\Debug\netcoreapp3.1\Exam Grading system console (Nested If statements).deps.json
+C:\Users\Gaming\source\repos\Exam Grading system console (Nested If statements)\bin\Debug\netcoreapp3.1\Exam Grading system console (Nested If statements).runtimeconfig.json
+C:\Users\Gaming\source\repos\Exam Grading system console (Nested If statements)\bin\Debug\netcoreapp3.1\Exam Grading system console (Nested If statements).runtimeconfig.dev.json
+C:\Users\Gaming\source\repos\Exam Grading system console (Nested If statements)\bin\Debug\netcoreapp3.1\Exam Grading system console (Nested If statements).dll
+C:\Users\Gaming\source\repos\Exam Grading system console (Nested If statements)\bin\Debug\netcoreapp3.1\Exam Grading system console (Nested If statements).pdb
+C:\Users\Gaming\source\repos\Exam Grading system console (Nested If statements)\obj\Debug\netcoreapp3.1\Exam Grading system console (Nested If statements).vbprojAssemblyReference.cache
+C:\Users\Gaming\source\repos\Exam Grading system console (Nested If statements)\obj\Debug\netcoreapp3.1\Exam Grading system console (Nested If statements).AssemblyInfoInputs.cache
+C:\Users\Gaming\source\repos\Exam Grading system console (Nested If statements)\obj\Debug\netcoreapp3.1\Exam Grading system console (Nested If statements).AssemblyInfo.vb
+C:\Users\Gaming\source\repos\Exam Grading system console (Nested If statements)\obj\Debug\netcoreapp3.1\Exam Grading system console (Nested If statements).vbproj.CoreCompileInputs.cache
+C:\Users\Gaming\source\repos\Exam Grading system console (Nested If statements)\obj\Debug\netcoreapp3.1\Exam Grading system console (Nested If statements).dll
+C:\Users\Gaming\source\repos\Exam Grading system console (Nested If statements)\obj\Debug\netcoreapp3.1\Exam Grading system console (Nested If statements).pdb
+C:\Users\Gaming\source\repos\Exam Grading system console (Nested If statements)\obj\Debug\netcoreapp3.1\Exam Grading system console (Nested If statements).genruntimeconfig.cache

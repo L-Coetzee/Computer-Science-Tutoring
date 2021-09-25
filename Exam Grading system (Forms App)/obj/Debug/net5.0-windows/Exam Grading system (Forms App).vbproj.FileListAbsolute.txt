@@ -1,0 +1,18 @@
+C:\Users\Gaming\source\repos\Exam Grading system (Forms App)\bin\Debug\net5.0-windows\Exam Grading system (Forms App).exe
+C:\Users\Gaming\source\repos\Exam Grading system (Forms App)\bin\Debug\net5.0-windows\Exam Grading system (Forms App).deps.json
+C:\Users\Gaming\source\repos\Exam Grading system (Forms App)\bin\Debug\net5.0-windows\Exam Grading system (Forms App).runtimeconfig.json
+C:\Users\Gaming\source\repos\Exam Grading system (Forms App)\bin\Debug\net5.0-windows\Exam Grading system (Forms App).runtimeconfig.dev.json
+C:\Users\Gaming\source\repos\Exam Grading system (Forms App)\bin\Debug\net5.0-windows\Exam Grading system (Forms App).dll
+C:\Users\Gaming\source\repos\Exam Grading system (Forms App)\bin\Debug\net5.0-windows\ref\Exam Grading system (Forms App).dll
+C:\Users\Gaming\source\repos\Exam Grading system (Forms App)\bin\Debug\net5.0-windows\Exam Grading system (Forms App).pdb
+C:\Users\Gaming\source\repos\Exam Grading system (Forms App)\obj\Debug\net5.0-windows\Exam Grading system (Forms App).vbprojAssemblyReference.cache
+C:\Users\Gaming\source\repos\Exam Grading system (Forms App)\obj\Debug\net5.0-windows\Exam_Grading_system__Forms_App_.Form1.resources
+C:\Users\Gaming\source\repos\Exam Grading system (Forms App)\obj\Debug\net5.0-windows\Exam Grading system (Forms App).vbproj.GenerateResource.cache
+C:\Users\Gaming\source\repos\Exam Grading system (Forms App)\obj\Debug\net5.0-windows\Exam Grading system (Forms App).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\source\repos\Exam Grading system (Forms App)\obj\Debug\net5.0-windows\Exam Grading system (Forms App).AssemblyInfoInputs.cache
+C:\Users\Gaming\source\repos\Exam Grading system (Forms App)\obj\Debug\net5.0-windows\Exam Grading system (Forms App).AssemblyInfo.vb
+C:\Users\Gaming\source\repos\Exam Grading system (Forms App)\obj\Debug\net5.0-windows\Exam Grading system (Forms App).vbproj.CoreCompileInputs.cache
+C:\Users\Gaming\source\repos\Exam Grading system (Forms App)\obj\Debug\net5.0-windows\Exam Grading system (Forms App).dll
+C:\Users\Gaming\source\repos\Exam Grading system (Forms App)\obj\Debug\net5.0-windows\ref\Exam Grading system (Forms App).dll
+C:\Users\Gaming\source\repos\Exam Grading system (Forms App)\obj\Debug\net5.0-windows\Exam Grading system (Forms App).pdb
+C:\Users\Gaming\source\repos\Exam Grading system (Forms App)\obj\Debug\net5.0-windows\Exam Grading system (Forms App).genruntimeconfig.cache
