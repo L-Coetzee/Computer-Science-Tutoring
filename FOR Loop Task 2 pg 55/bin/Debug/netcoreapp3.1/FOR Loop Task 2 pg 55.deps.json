@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FOR Loop Task 2 pg 55/1.0.0": {
+        "runtime": {
+          "FOR Loop Task 2 pg 55.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FOR Loop Task 2 pg 55/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

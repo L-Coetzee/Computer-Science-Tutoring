@@ -1,0 +1,13 @@
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\FOR Loop Task pg 55\bin\Debug\netcoreapp3.1\FOR Loop Task pg 55.exe
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\FOR Loop Task pg 55\bin\Debug\netcoreapp3.1\FOR Loop Task pg 55.deps.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\FOR Loop Task pg 55\bin\Debug\netcoreapp3.1\FOR Loop Task pg 55.runtimeconfig.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\FOR Loop Task pg 55\bin\Debug\netcoreapp3.1\FOR Loop Task pg 55.runtimeconfig.dev.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\FOR Loop Task pg 55\bin\Debug\netcoreapp3.1\FOR Loop Task pg 55.dll
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\FOR Loop Task pg 55\bin\Debug\netcoreapp3.1\FOR Loop Task pg 55.pdb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\FOR Loop Task pg 55\obj\Debug\netcoreapp3.1\FOR Loop Task pg 55.vbprojAssemblyReference.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\FOR Loop Task pg 55\obj\Debug\netcoreapp3.1\FOR Loop Task pg 55.AssemblyInfoInputs.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\FOR Loop Task pg 55\obj\Debug\netcoreapp3.1\FOR Loop Task pg 55.AssemblyInfo.vb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\FOR Loop Task pg 55\obj\Debug\netcoreapp3.1\FOR Loop Task pg 55.vbproj.CoreCompileInputs.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\FOR Loop Task pg 55\obj\Debug\netcoreapp3.1\FOR Loop Task pg 55.dll
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\FOR Loop Task pg 55\obj\Debug\netcoreapp3.1\FOR Loop Task pg 55.pdb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\FOR Loop Task pg 55\obj\Debug\netcoreapp3.1\FOR Loop Task pg 55.genruntimeconfig.cache
