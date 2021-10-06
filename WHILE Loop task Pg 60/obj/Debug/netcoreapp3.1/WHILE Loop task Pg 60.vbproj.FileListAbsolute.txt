@@ -1,0 +1,13 @@
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop task Pg 60\bin\Debug\netcoreapp3.1\WHILE Loop task Pg 60.exe
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop task Pg 60\bin\Debug\netcoreapp3.1\WHILE Loop task Pg 60.deps.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop task Pg 60\bin\Debug\netcoreapp3.1\WHILE Loop task Pg 60.runtimeconfig.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop task Pg 60\bin\Debug\netcoreapp3.1\WHILE Loop task Pg 60.runtimeconfig.dev.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop task Pg 60\bin\Debug\netcoreapp3.1\WHILE Loop task Pg 60.dll
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop task Pg 60\bin\Debug\netcoreapp3.1\WHILE Loop task Pg 60.pdb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop task Pg 60\obj\Debug\netcoreapp3.1\WHILE Loop task Pg 60.vbprojAssemblyReference.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop task Pg 60\obj\Debug\netcoreapp3.1\WHILE Loop task Pg 60.AssemblyInfoInputs.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop task Pg 60\obj\Debug\netcoreapp3.1\WHILE Loop task Pg 60.AssemblyInfo.vb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop task Pg 60\obj\Debug\netcoreapp3.1\WHILE Loop task Pg 60.vbproj.CoreCompileInputs.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop task Pg 60\obj\Debug\netcoreapp3.1\WHILE Loop task Pg 60.dll
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop task Pg 60\obj\Debug\netcoreapp3.1\WHILE Loop task Pg 60.pdb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop task Pg 60\obj\Debug\netcoreapp3.1\WHILE Loop task Pg 60.genruntimeconfig.cache
