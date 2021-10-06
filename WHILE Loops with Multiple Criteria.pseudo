@@ -1,0 +1,18 @@
+INT: Num = 0, INT:Modulus = 0, INT: Counter =2
+BOOLEAN: Prime = True
+
+INPUT Num
+
+While Counter < Num - 1 AND Prime = True DO
+   Modulus = Num MOD Counter 
+   IF Modulus = 0 THEN 
+   Prime = False
+   END IF
+   Counter = Counter + 1
+Loop
+
+If Prime = true THEN
+   Output "Number is PRIME"
+Else
+Output "NOT a PRIME Number"
+End If

@@ -1,0 +1,13 @@
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop with Multiple criteria (Example)\bin\Debug\netcoreapp3.1\WHILE Loop with Multiple criteria (Example).exe
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop with Multiple criteria (Example)\bin\Debug\netcoreapp3.1\WHILE Loop with Multiple criteria (Example).deps.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop with Multiple criteria (Example)\bin\Debug\netcoreapp3.1\WHILE Loop with Multiple criteria (Example).runtimeconfig.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop with Multiple criteria (Example)\bin\Debug\netcoreapp3.1\WHILE Loop with Multiple criteria (Example).runtimeconfig.dev.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop with Multiple criteria (Example)\bin\Debug\netcoreapp3.1\WHILE Loop with Multiple criteria (Example).dll
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop with Multiple criteria (Example)\bin\Debug\netcoreapp3.1\WHILE Loop with Multiple criteria (Example).pdb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop with Multiple criteria (Example)\obj\Debug\netcoreapp3.1\WHILE Loop with Multiple criteria (Example).vbprojAssemblyReference.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop with Multiple criteria (Example)\obj\Debug\netcoreapp3.1\WHILE Loop with Multiple criteria (Example).AssemblyInfoInputs.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop with Multiple criteria (Example)\obj\Debug\netcoreapp3.1\WHILE Loop with Multiple criteria (Example).AssemblyInfo.vb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop with Multiple criteria (Example)\obj\Debug\netcoreapp3.1\WHILE Loop with Multiple criteria (Example).vbproj.CoreCompileInputs.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop with Multiple criteria (Example)\obj\Debug\netcoreapp3.1\WHILE Loop with Multiple criteria (Example).dll
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop with Multiple criteria (Example)\obj\Debug\netcoreapp3.1\WHILE Loop with Multiple criteria (Example).pdb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\WHILE Loop with Multiple criteria (Example)\obj\Debug\netcoreapp3.1\WHILE Loop with Multiple criteria (Example).genruntimeconfig.cache
