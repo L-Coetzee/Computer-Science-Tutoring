@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gaming\\source\\repos\\Exam Grading system console (Nested If statements)\\Exam Grading system console (Nested If statements).vbproj": {}
+    "C:\\Users\\Gaming\\OneDrive\\Documents\\GitHub\\Computer-Science\\Exam Grading system console (Nested If statements)\\Exam Grading system console (Nested If statements).vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Gaming\\source\\repos\\Exam Grading system console (Nested If statements)\\Exam Grading system console (Nested If statements).vbproj": {
+    "C:\\Users\\Gaming\\OneDrive\\Documents\\GitHub\\Computer-Science\\Exam Grading system console (Nested If statements)\\Exam Grading system console (Nested If statements).vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gaming\\source\\repos\\Exam Grading system console (Nested If statements)\\Exam Grading system console (Nested If statements).vbproj",
+        "projectUniqueName": "C:\\Users\\Gaming\\OneDrive\\Documents\\GitHub\\Computer-Science\\Exam Grading system console (Nested If statements)\\Exam Grading system console (Nested If statements).vbproj",
         "projectName": "Exam Grading system console (Nested If statements)",
-        "projectPath": "C:\\Users\\Gaming\\source\\repos\\Exam Grading system console (Nested If statements)\\Exam Grading system console (Nested If statements).vbproj",
+        "projectPath": "C:\\Users\\Gaming\\OneDrive\\Documents\\GitHub\\Computer-Science\\Exam Grading system console (Nested If statements)\\Exam Grading system console (Nested If statements).vbproj",
         "packagesPath": "C:\\Users\\Gaming\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gaming\\source\\repos\\Exam Grading system console (Nested If statements)\\obj\\",
+        "outputPath": "C:\\Users\\Gaming\\OneDrive\\Documents\\GitHub\\Computer-Science\\Exam Grading system console (Nested If statements)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
