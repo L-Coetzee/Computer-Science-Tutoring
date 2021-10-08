@@ -1,0 +1,13 @@
+DECIMAL: Radius = 0, Circ = 0, Area =0
+Input Radius
+CALL CircleCalculation(Radius,Circ,Area)
+Output Circ
+Output Area
+
+//Pseudocode for the procedure
+SUB CircleCalculation(ByVal DECIMAL: R, ByRef DECIMAL C,ByRef DECIMAL A)
+    CONSTANT Pi as DECIMAL = 3.142
+    C = R*R*Pi
+    A = 2*R*Pi
+END SUB
+

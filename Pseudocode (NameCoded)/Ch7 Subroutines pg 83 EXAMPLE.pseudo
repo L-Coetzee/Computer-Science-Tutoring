@@ -1,0 +1,12 @@
+// Pseudocode for the calling process
+
+DECIMAL: Radius = 0, Circ = 0
+Input Radius
+CALL Circle(Radius,Circ)
+Output Circ
+
+//Pseudocode for the procedure
+SUB Circle(ByVal DECIMAL: R, ByRef DECIMAL C)
+    CONSTANT Pi as DECIMAL = 3.142
+    C = R*R*Pi
+END SUB
