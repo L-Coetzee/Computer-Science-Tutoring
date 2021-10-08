@@ -1,0 +1,13 @@
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Produce Multiples Task (Pg 81)\obj\Debug\netcoreapp3.1\Produce Multiples Task (Pg 81).vbprojAssemblyReference.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Produce Multiples Task (Pg 81)\obj\Debug\netcoreapp3.1\Produce Multiples Task (Pg 81).AssemblyInfoInputs.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Produce Multiples Task (Pg 81)\obj\Debug\netcoreapp3.1\Produce Multiples Task (Pg 81).AssemblyInfo.vb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Produce Multiples Task (Pg 81)\obj\Debug\netcoreapp3.1\Produce Multiples Task (Pg 81).vbproj.CoreCompileInputs.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Produce Multiples Task (Pg 81)\bin\Debug\netcoreapp3.1\Produce Multiples Task (Pg 81).exe
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Produce Multiples Task (Pg 81)\bin\Debug\netcoreapp3.1\Produce Multiples Task (Pg 81).deps.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Produce Multiples Task (Pg 81)\bin\Debug\netcoreapp3.1\Produce Multiples Task (Pg 81).runtimeconfig.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Produce Multiples Task (Pg 81)\bin\Debug\netcoreapp3.1\Produce Multiples Task (Pg 81).runtimeconfig.dev.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Produce Multiples Task (Pg 81)\bin\Debug\netcoreapp3.1\Produce Multiples Task (Pg 81).dll
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Produce Multiples Task (Pg 81)\bin\Debug\netcoreapp3.1\Produce Multiples Task (Pg 81).pdb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Produce Multiples Task (Pg 81)\obj\Debug\netcoreapp3.1\Produce Multiples Task (Pg 81).dll
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Produce Multiples Task (Pg 81)\obj\Debug\netcoreapp3.1\Produce Multiples Task (Pg 81).pdb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Produce Multiples Task (Pg 81)\obj\Debug\netcoreapp3.1\Produce Multiples Task (Pg 81).genruntimeconfig.cache

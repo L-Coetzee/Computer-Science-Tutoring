@@ -10,3 +10,11 @@ End
 Input NumberToMultiply
 Input MultipleINT
 CALL Multiply(NumberToMultiply, MultipleINT)
+
+SOLUTION:
+
+SUB Multiply(INT: Num1, INT: Num2)
+    For i = 1 To Num2 
+        Output Num1 * i 
+    Next
+END Sub

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Produce Multiples Task (Pg 81)/1.0.0": {
+        "runtime": {
+          "Produce Multiples Task (Pg 81).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Produce Multiples Task (Pg 81)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
