@@ -1,0 +1,12 @@
+Produce Multiples Task Pg 81
+
+
+Sub Multiply(INT:Number, MultipleINT)
+    FOR i = 1 To MiltipleINT
+        Output Number * i
+    Next 
+End 
+
+Input NumberToMultiply
+Input MultipleINT
+CALL Multiply(NumberToMultiply, MultipleINT)

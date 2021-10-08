@@ -1,0 +1,12 @@
+Ch7 Subroutines pg 81 EXAMPLE
+
+Sub Multiply(INT:Number)
+    FOR i = 1 To 5
+        Output Number * i
+    Next 
+End Sub 
+
+CALL Multiply(10)
+Input NumberToMultiply
+CALL Multiply(NumberToMultiply)
+        

@@ -1,0 +1,19 @@
+INT: Number = 0, Total = 0, HighestINT = 0, Count = 0
+
+For Count < 100
+    Input Number
+    If Number > HighestINT 
+        HighestINT = Number
+    End If
+
+    Total = Total + Number
+
+    Count = Count + 1
+Loop
+
+Output Total, HighestINT
+
+
+
+
+    
