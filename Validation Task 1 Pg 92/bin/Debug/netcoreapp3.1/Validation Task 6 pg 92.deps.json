@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Validation Task 6 pg 92/1.0.0": {
+        "runtime": {
+          "Validation Task 6 pg 92.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Validation Task 6 pg 92/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
