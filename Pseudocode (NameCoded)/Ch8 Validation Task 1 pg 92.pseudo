@@ -82,31 +82,38 @@ _____________________________________
 INT: UserName = 0, Attempts = 0
 STRING: Password = ""
 
-Function Validate
+CALL LogIn()
+
+Function Validate ()
     RECIEVE UserName, Password
-        IF UserName > 1000 AND UserName < 1500 //The following is a bit  messy, by vs code is being dumb :)
+        IF UserName > 1000 AND UserName < 1500 //The following is a bit messy, but vs code is being dumb :)
             IF Password Length > 5 //The IF statements are probably incorrect, but I tried
                 Validate = True
-        Validate = True
-            ELSE Validate = False
+            ELSE 
+                Validate = False
+            END IF
         ELSE 
             Validate = False
-            END IF
         END IF
+    Return       
 END Function //The end of this horrible mess...
 
-Function LogIn 
+Function LogIn ()
     WHILE Attempts <= 2 Do
         INPUT Password, UserName
+        
         CALL Validate //I don't know whether the syntax is correct 
         PASS UserName, Password to Validate
-            IF Validate Return True //This is to check if validate returned TRUE or FALSE
-                OUTPUT "Welcome" //And I hope Return is the correct syntax?
-            ELSE
-                OUTPUT "Password or Username is incorrect"
-                Attempts = Attempts + 1
-            END IF
+        
+        IF Validate Return True //This is to check if validate returned TRUE or FALSE
+            OUTPUT "Welcome" //And I hope Return is the correct syntax?
+        ELSE
+            OUTPUT "Password or Username is incorrect"
+            Attempts = Attempts + 1
+        END IF
     Loop
 END Function // what is the correct way to say this?
 
             
+f(Username, password) = y
+
