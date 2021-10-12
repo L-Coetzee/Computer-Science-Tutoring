@@ -1,0 +1,112 @@
+INT: Number
+
+INPUT Number
+
+IF Number < 0 
+    OUTPUT Number
+ELSE 
+    OUTPUT "Input Number is not Postive"
+END IF
+    
+--------------------------------------
+
+Task 1
+____________________________________
+INT:Number
+INPUT Number
+WHILE Number < 0 Do
+    OUTPUT Number
+    INPUT Number //Rememeber to have a modifier in a while loop
+Loop 
+
+OUTPUT "Input not positive"
+---------------------------------------
+Task2
+____________________________________
+
+INT:Number
+INPUT Number
+WHILE Number < 0 AND > 1000 Do
+    OUTPUT Number
+    INPUT Number //Rememeber to have a modifier in a while loop
+Loop 
+---------------------------------------
+
+Task4 
+____________________________________
+
+STRING:Password
+
+INPUT Password
+
+IF Password Length < 6 
+    OUTPUT "Password is safe"
+ELSE 
+    OUTPUT "Password is too short"
+END IF
+
+--------------------------------------
+Task5
+____________________________________
+"//" is a comment I did this just to keep track of where I was in the flowchart
+
+
+INT:UserName
+STRING:Password
+//end of block 1
+INPUT Password, UserName
+//end of block 2
+
+IF UserName > 1000 AND < 1500 
+//end of block 3
+    IF Password Length < 6
+    //end of block 4
+        OUTPUT "Logged in succesfully"
+        //end of block 5
+    ELSE  
+    
+    OUTPUT "Password or Username is incorrect"
+    //end of block 6
+    END IF
+ELSE
+    OUTPUT "Password or Username is incorrect"
+    //end of block 6
+END IF
+
+
+
+--------------------------------------
+Task6
+_____________________________________
+//Initialising variables...
+INT: UserName = 0, Attempts = 0
+STRING: Password = ""
+
+Function Validate
+    RECIEVE UserName, Password
+        IF UserName > 1000 AND UserName < 1500 //The following is a bit  messy, by vs code is being dumb :)
+            IF Password Length > 5 //The IF statements are probably incorrect, but I tried
+                Validate = True
+        Validate = True
+            ELSE Validate = False
+        ELSE 
+            Validate = False
+            END IF
+        END IF
+END Function //The end of this horrible mess...
+
+Function LogIn 
+    WHILE Attempts <= 2 Do
+        INPUT Password, UserName
+        CALL Validate //I don't know whether the syntax is correct 
+        PASS UserName, Password to Validate
+            IF Validate Return True //This is to check if validate returned TRUE or FALSE
+                OUTPUT "Welcome" //And I hope Return is the correct syntax?
+            ELSE
+                OUTPUT "Password or Username is incorrect"
+                Attempts = Attempts + 1
+            END IF
+    Loop
+END Function // what is the correct way to say this?
+
+            

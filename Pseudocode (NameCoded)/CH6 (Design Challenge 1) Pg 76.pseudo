@@ -1,0 +1,15 @@
+// Pseudocode attampt For design challeng one pg 76
+
+INT: NumberThrown, NrThrows, NrSixes, AllValues
+
+For i = 1 To 100 Do
+    INPUT NumberThrown
+    If NumberThrown = 6
+        NrSixes = NrSixes + 1
+        NrThrows = NrThrows + 1
+        AllValues = AllValues + NumberThrown
+    Else
+    AllValues = AllValues + NumberThrown
+Loop
+
+OUTPUT: NrSixes, (AllValues / 100)
