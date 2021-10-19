@@ -1,0 +1,13 @@
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Pre-Release Material Tasks 2021 Oct\bin\Debug\netcoreapp3.1\Pre-Release Material Tasks 2021 Oct.exe
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Pre-Release Material Tasks 2021 Oct\bin\Debug\netcoreapp3.1\Pre-Release Material Tasks 2021 Oct.deps.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Pre-Release Material Tasks 2021 Oct\bin\Debug\netcoreapp3.1\Pre-Release Material Tasks 2021 Oct.runtimeconfig.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Pre-Release Material Tasks 2021 Oct\bin\Debug\netcoreapp3.1\Pre-Release Material Tasks 2021 Oct.runtimeconfig.dev.json
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Pre-Release Material Tasks 2021 Oct\bin\Debug\netcoreapp3.1\Pre-Release Material Tasks 2021 Oct.dll
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Pre-Release Material Tasks 2021 Oct\bin\Debug\netcoreapp3.1\Pre-Release Material Tasks 2021 Oct.pdb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Pre-Release Material Tasks 2021 Oct\obj\Debug\netcoreapp3.1\Pre-Release Material Tasks 2021 Oct.vbprojAssemblyReference.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Pre-Release Material Tasks 2021 Oct\obj\Debug\netcoreapp3.1\Pre-Release Material Tasks 2021 Oct.AssemblyInfoInputs.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Pre-Release Material Tasks 2021 Oct\obj\Debug\netcoreapp3.1\Pre-Release Material Tasks 2021 Oct.AssemblyInfo.vb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Pre-Release Material Tasks 2021 Oct\obj\Debug\netcoreapp3.1\Pre-Release Material Tasks 2021 Oct.vbproj.CoreCompileInputs.cache
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Pre-Release Material Tasks 2021 Oct\obj\Debug\netcoreapp3.1\Pre-Release Material Tasks 2021 Oct.dll
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Pre-Release Material Tasks 2021 Oct\obj\Debug\netcoreapp3.1\Pre-Release Material Tasks 2021 Oct.pdb
+C:\Users\Gaming\OneDrive\Documents\Programming IGCSE\Pre-Release Material Tasks 2021 Oct\obj\Debug\netcoreapp3.1\Pre-Release Material Tasks 2021 Oct.genruntimeconfig.cache
